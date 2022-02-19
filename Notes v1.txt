@@ -1,0 +1,14 @@
+v1 pcb panelized was under 60mm wide which is under the limit for 
+Seeed's v-cut operation. Had them add margin, we'll see what that means.
+
+V1  Assembly Notes
+Resistors (R1 and R2) would be better on the bottom. It's hard to reach them if there's an issue on the top.
+
+Assembly Order:
+R1 and R2 Surface Mount
+C1, C3, LEDs and Diodes
+C2 and C4
+Ferrites
+2x5 Header
+2x4 Headers
+
