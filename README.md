@@ -1,6 +1,6 @@
-# Alpha Potentiometer Breakout Board
+# Eurorack Bread Board Power Supply
 
-This is a PCB for a breakout board for use while breadboarding with the vertical, through hole Alpha potentiometers.
+This is a PCB for a bread board power supply for eurorack synthesizer development.
 
 Full writeup here: https://www.robotdialogs.com/2022/08/breakout-boards-for-synthesizer.html
 
